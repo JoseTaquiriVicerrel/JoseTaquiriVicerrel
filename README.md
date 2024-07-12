@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jose
-#### Frontend Developer
+#### Developer
 
-Skills:  JS / HTML / CSS / PHP / C#
+Skills:  PHP / Node Js / JS / HTML / CSS / C#
 
 
 
